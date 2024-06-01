@@ -1,0 +1,1 @@
+Some initial content to initialize the repository.
